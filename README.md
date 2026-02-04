@@ -1,3 +1,30 @@
+# Weather App 🌦️
+
+A simple and responsive weather application that allows users to check the current weather information.
+
+Live demo is available here:  
+🔗 https://weatherapp-projectt.netlify.app/
+
+---
+## Features
+
+- Displays current weather in Istanbul
+- Shows temperature and weather condition
+- Includes basic details such as humidity and wind speed
+- Responsive design for desktop and mobile devices
+- Uses real-time data from a weather API
+
+---
+## Built With
+
+- HTML
+- CSS
+- JavaScript
+- Weather API 
+
+---
+⬇️ Screenshots of the app are below ⬇️
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +95,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+----------
+## 📸Screenshots
+
+## English Page
+![English Page](./weatherAppScreenshots/enPage.png)
+
+## Turkish Page
+![Turkish Page](./weatherAppScreenshots/trPage.png)
